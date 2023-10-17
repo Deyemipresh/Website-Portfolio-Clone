@@ -1,0 +1,33 @@
+.btn-override {
+  background-color: #2c2c2c43 !important;
+  border: 2px solid #764c2e !important;
+  color: whitesmoke !important;
+  font-weight: bold !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.custom-navbar.affix .logo,
+.transparent-text,
+.btn-outline-override {
+  color: #764c2e !important;
+}
+
+.btn-outline-override {
+  border: 2px solid #764c2e !important;
+}
+
+.contact-container,
+.btn-outline-override:hover,
+.social-links a:hover {
+  background-color: #764c2e !important;
+  color: white !important;
+}
+
+.nav > li > a:hover {
+  color: #764c2e !important;
+}
